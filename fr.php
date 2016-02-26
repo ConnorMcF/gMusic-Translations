@@ -174,3 +174,6 @@ $lang["404_uhoh"] = "Oh oh! Ceci n'était pas ce que voulez voir...";
 $lang["404_contact"] = 'Si vous venez d\'ici depuis un lien valide, veuillez <a href="/contact">me le faire savoir</a> ou alors, vous pouvez <a href="/">retourner à la page d\'accueil</a>.'; // don't edit the tags, <a> and </a> (edit inside)
 // Etc
 $lang["contact"] = "Contact";
+
+
+$lang["stats_views"] = "Total des connexions sur des serveurs enregistrés avec gMusic";
