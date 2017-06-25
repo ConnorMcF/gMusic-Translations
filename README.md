@@ -1,4 +1,8 @@
 # gMusic Translations
+
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
+
 Want to help translate gMusic?
 Simply add a pull request for the languages you wish to help with!
 
